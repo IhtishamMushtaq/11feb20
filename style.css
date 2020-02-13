@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.circle {
+    border-radius:50% ;
+    width: 0.6cm;
+    height: 0.6cm;
+    border-style: solid;
+    border-color:hsl(0, 36%, 70%);
+    margin-left: 1cm;
+    margin-top: 1.1cm;
+    display:;
+    border-width: 0.13cm;   
+    float: left;
+    
+}
+.top img {
+width: 100%;
+padding-top: 0.8cm;
+
+}
+.middle {
+    letter-spacing: 5px;
+
+    font-family: 'Josefin Sans', sans-serif;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+    font-weight: 800;
+    font-size: x-large;
+}
+.colored {
+    color:hsl(0, 36%, 70%);
+}
+.bottom {
+    font-weight: 300;
+    color:hsl(0, 36%, 70%);
+    font-size: medium;
+    font: bolder;
+    font-stretch: normal;
+}
